@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[
+callBack = callBack && callBack instanceof Function ? callBack : function(){};
+]]></content>
+  <tabTrigger>cb</tabTrigger>
+</snippet>
